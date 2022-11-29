@@ -1,0 +1,25 @@
+---
+title: "Regression with Interaction"
+output: html_notebook
+---
+```{r}
+library(tidyverse)
+library(caret)
+```
+```{r}
+# Load the data
+data("marketing", package = "datarium")
+# Inspect the data
+sample_n(marketing, 3)
+```
+```{r}
+# Split the data into training and test set
+set.seed(123)
+training.samples <- marketing$sales %>%
+  createDataPartition(p = 0.8, list = FALSE)
+train.data  <- marketing[training.samples, ]
+test.data <- marketing[-training.samples, ]
+
+
+
+

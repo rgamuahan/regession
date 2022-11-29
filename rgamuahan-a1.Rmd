@@ -1,0 +1,22 @@
+---
+title: "rgamuahan-a1"
+author: "Ruby G. Amuahan"
+date: "2022-11-22"
+output: pdf_document
+---
+
+1. What package are they talking about?
+	They are talking about quarto. Quarto is a way of life because it informs the way you work and the way you think and the way you kind of rethink what’s possible when you collaborate with yourself and with other people. 
+	
+2. Why is there a need to shift from R markdown to the said package?
+	In the video "Opens Capes Community Call 06: Hello Quarto! Co-hosted with R Ladies Santa Barbara", I couldn't figure out why switching from R markdown to quarto was necessary, so I turned to Google to help me out. Yihui Xie (2022-04-29) argues that if R markdown meets your needs, you don't necessarily need to move to quarto. The goal of Quarto is to generalize the R markdown ecosystem and make all of its beneficial capabilities for creating and disseminating technical information accessible to a wider audience outside of R.
+	
+3. What inspired/sparked the said shift?
+
+4. Are you up to the challenge of the said shift, learning it and applying it on your future as math teachers?
+ Because I haven't used it or experienced its benefits, I haven't yet appreciated the quarto. However, I believe that if I can comprehend and recognize how it will benefit me in the future as a teacher, I will embrace and respect it. And, yes, I'm up for the task. As a student who is interested in learning how to manufacture and utilize it, I'm willing to learn and put what I've learned into practice.
+ 
+5. What cool feature in the package did you like best? Please Discuss. Thanks.
+	I'll be honest and say there isn't currently a cool feature package that I prefer. As I mentioned or stated in my response to question number 4, I still do not understand how to use or appreciate the quarto. The distinction between R markdown, R notebook, and quarto is still unclear to me.
+
+
